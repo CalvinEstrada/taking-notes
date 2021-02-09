@@ -22,3 +22,6 @@ Application should allow users to delete previously saved notes.
 
 #Screenshots
 
+![screenshot](https://raw.githubusercontent.com/CalvinEstrada/taking-notes/Master/images/Capture.PNG)
+
+![Screenshot](https://raw.githubusercontent.com/CalvinEstrada/taking-notes/Master/images/Capture2.PNG)
